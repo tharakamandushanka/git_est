@@ -1,0 +1,89 @@
+C:\Users\Tharaka\source\repos\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.exe
+C:\Users\Tharaka\source\repos\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.deps.json
+C:\Users\Tharaka\source\repos\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\Tharaka\source\repos\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\Tharaka\source\repos\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\refint\WinFormsApp7.dll
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\ref\WinFormsApp7.dll
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Properties.Resources.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.About.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Home.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Profile.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Report_Problem.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Request_Leave.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Salary.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.User_Dashboard.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Working_Calender.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Register.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.EmployeLoging.resources
+C:\Users\Tharaka\source\repos\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AdmingLoging.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.exe
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.deps.json
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.About.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AdmingLoging.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.EmployeLoging.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Home.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Profile.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Properties.Resources.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Register.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Report_Problem.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Request_Leave.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Salary.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.User_Dashboard.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Working_Calender.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\refint\WinFormsApp7.dll
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\ref\WinFormsApp7.dll
+C:\Users\Tharaka\Downloads\New folder\New folder\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AdminEmploye.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\bin\Debug\net6.0-windows\WinFormsApp7.exe
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\bin\Debug\net6.0-windows\WinFormsApp7.deps.json
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\bin\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\bin\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.About.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.AdminEmploye.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.AdmingLoging.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.EmployeLoging.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.Home.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.Profile.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.Properties.Resources.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.Register.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.Report_Problem.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.Request_Leave.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.Salary.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.User_Dashboard.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.Working_Calender.resources
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.dll
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\refint\WinFormsApp7.dll
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.pdb
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\Tharaka\Downloads\New folder\New folder\2022.07.16 - Copy (2)\obj\Debug\net6.0-windows\ref\WinFormsApp7.dll
